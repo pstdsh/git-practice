@@ -5,3 +5,9 @@ polumorphism
 Encapsulation
 getter
 setter
+
+for loop literals
+datatype
+
+
+Thank you.. :)
