@@ -3,3 +3,5 @@ Welcome to github programming by Ipsita
 
 polumorphism
 Encapsulation
+getter
+setter
