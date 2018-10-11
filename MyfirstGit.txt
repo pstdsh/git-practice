@@ -5,3 +5,5 @@ polumorphism
 Encapsulation
 getter
 setter
+
+final features added & copy
