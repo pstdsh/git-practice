@@ -6,4 +6,11 @@ Encapsulation
 getter
 setter
 
+for loop literals
+datatype
+
+
+Thank you.. :)
+
 final features added & copy
+
