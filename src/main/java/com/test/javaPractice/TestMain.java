@@ -11,6 +11,8 @@ public class TestMain {
 		System.out.println();
 		System.out.println("2nd method result:");
 		ac.getArrayObj();
+		//System.out.println();
+		ac.stringCompare("IpsitaKfgdh", "Ipsita");
 		
 
 	}
