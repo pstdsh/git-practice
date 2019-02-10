@@ -2,11 +2,7 @@ package com.test.javaPractice;
 
 public class CommonUtility {
 
-	/*Using user-defined function : Define a function to compare values with following conditions :
-		if (string1 > string2) it returns a positive value.
-		if both the strings are equal lexicographically
-		i.e.(string1 == string2) it returns 0.
-		if (string1 < string2) it returns a negative value.*/
+
 
     // This method compares two strings 
     // lexicographically without using 
